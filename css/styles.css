@@ -13,7 +13,8 @@
 header {
 	min-height:230px;
   padding: 0;
-  background-color:#F9FAFD;
+  color:#7E5F56;
+  background-color:#F7F5F4;
 }
 
 @media (min-width: 979px) {
@@ -35,13 +36,17 @@ header {
 /* theme */
 
 body {
-  color:#828282;
-  background-color:#ffc9c9;
+  color:#7E5F56;
+  background-color:#FBDBDB;
   font-family: 'Belgrano', serif;
 }
 
+ul {
+  list-style-type: none;
+}
+
 a,a:hover {
-	color:#C4BBB8;
+	color:#888374;
   	text-decoration:none;
 }
 
